@@ -18,7 +18,7 @@ Structural variants (SVs) are a major source of genomic diversity and play key r
 
 The pipeline is optimized for HiFi read characteristics and optionally combines read-based and assembly-based calling (**cuteSV/SVIM-asm**) to improve the detection of larger genomic variants while maximizing parallelism.
 
-**(Poster presented at [INSERT CONFERENCE NAME], 202X)**
+**(Poster presented at PAG33, 2026)**
 
 ## ✨ Key Features
 
